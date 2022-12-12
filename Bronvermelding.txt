@@ -1,0 +1,12 @@
+Link naar website:
+
+
+Bronvermelding:
+1. https://www.w3schools.com/css/css_navbar.asp
+2. https://www.w3schools.com/css/css_form.asp
+3. https://www.w3schools.com/css/css3_images.asp
+4. https://www.w3schools.com/css/css3_flexbox.asp
+5. https://www.w3schools.com/css/css3_buttons.asp
+6. https://www.w3schools.com/html/html_classes.asp
+7. https://www.w3schools.com/html/html5_video.asp
+8. https://www.embedgooglemap.net/
